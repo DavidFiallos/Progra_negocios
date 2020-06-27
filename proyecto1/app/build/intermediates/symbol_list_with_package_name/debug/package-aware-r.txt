@@ -659,6 +659,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable ic_immuni
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -776,6 +777,7 @@ id icon
 id icon_group
 id ifRoom
 id image
+id imageView
 id imageView2
 id info
 id invisible
@@ -927,6 +929,9 @@ layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 mipmap ic_launcher
 mipmap ic_launcher_round
+string Alergias
+string Edad
+string Nombre
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

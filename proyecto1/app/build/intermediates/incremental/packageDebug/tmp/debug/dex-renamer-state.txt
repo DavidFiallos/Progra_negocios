@@ -1,4 +1,4 @@
-#Sat Jun 27 11:18:17 CST 2020
+#Sat Jun 27 11:48:55 CST 2020
 base.0=C\:\\Users\\DavidAlberto\\Desktop\\Repository\\Progra_negocios\\proyecto1\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
