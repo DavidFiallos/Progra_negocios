@@ -33,7 +33,7 @@
             android:ems="10"
             android:fontFamily="serif"
             android:inputType="textPersonName"
-            android:text="Nombre" />
+            android:hint="@string/Nombre" />
 
         <EditText
             android:id="@+id/ptedad"
@@ -42,7 +42,7 @@
             android:ems="10"
             android:fontFamily="serif"
             android:inputType="textPersonName"
-            android:text="Edad" />
+            android:hint="@string/Edad" />
 
         <RadioGroup
             android:id="@+id/rdbGenero"
@@ -94,7 +94,8 @@
                 android:layout_height="167dp"
                 android:ems="10"
                 android:gravity="start|top"
-                android:inputType="textMultiLine" />
+                android:inputType="textMultiLine"
+                android:hint="@string/Alergias" />
 
         </RadioGroup>
 
@@ -112,6 +113,16 @@
         android:textSize="18sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="77dp"
+        android:layout_height="24dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_immuni" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
