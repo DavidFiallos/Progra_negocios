@@ -6,44 +6,44 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml
+8-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml
+9-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml
 10
 11    <application
-11-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:8:5-23:19
+11-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:8:5-23:19
 12        android:allowBackup="true"
-12-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:9:9-35
+12-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:9:9-35
 13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 13-->[androidx.core:core:1.1.0] C:\Users\DavidAlberto\.gradle\caches\transforms-2\files-2.1\34b4ab0d8b65ac74ddd00d45b26dd963\core-1.1.0\AndroidManifest.xml:24:18-86
 14        android:debuggable="true"
 15        android:extractNativeLibs="false"
 16        android:icon="@mipmap/ic_launcher"
-16-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:10:9-43
+16-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:10:9-43
 17        android:label="@string/app_name"
-17-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:11:9-41
+17-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:11:9-41
 18        android:roundIcon="@mipmap/ic_launcher_round"
-18-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:12:9-54
+18-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:12:9-54
 19        android:supportsRtl="true"
-19-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:13:9-35
+19-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:13:9-35
 20        android:testOnly="true"
 21        android:theme="@style/AppTheme" >
-21-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:14:9-40
+21-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:14:9-40
 22        <activity android:name="com.negocios.proyecto1.Main2Activity" />
-22-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:15:9-60
-22-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:15:19-48
+22-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:15:9-60
+22-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:15:19-48
 23        <activity android:name="com.negocios.proyecto1.MainActivity" >
-23-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:16:9-22:20
-23-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:16:19-47
+23-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:16:9-22:20
+23-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:16:19-47
 24            <intent-filter>
-24-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:17:13-21:29
+24-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:17:13-21:29
 25                <action android:name="android.intent.action.MAIN" />
-25-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:18:17-69
-25-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:18:25-66
+25-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:18:17-69
+25-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:18:25-66
 26
 27                <category android:name="android.intent.category.LAUNCHER" />
-27-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:20:17-77
-27-->C:\Users\DavidAlberto\Desktop\Repositrio negocios\programacion_negocios\proyecto1\app\src\main\AndroidManifest.xml:20:27-74
+27-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:20:17-77
+27-->C:\Users\DavidAlberto\Desktop\Repository\Progra_negocios\proyecto1\app\src\main\AndroidManifest.xml:20:27-74
 28            </intent-filter>
 29        </activity>
 30    </application>

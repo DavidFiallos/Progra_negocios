@@ -10,12 +10,11 @@
         android:id="@+id/ratingBar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="56dp"
         android:contentDescription="@string/bar_star"
         android:numStars="5"
         android:rating="0"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/scrollView2" />
 
@@ -23,7 +22,7 @@
         android:id="@+id/btnatras"
         android:layout_width="150dp"
         android:layout_height="40dp"
-        android:layout_marginBottom="28dp"
+        android:layout_marginBottom="16dp"
         android:width="150dp"
         android:height="40dp"
 
@@ -39,8 +38,8 @@
 
     <ScrollView
         android:id="@+id/scrollView2"
-        android:layout_width="411dp"
-        android:layout_height="435dp"
+        android:layout_width="399dp"
+        android:layout_height="250dp"
         android:layout_marginTop="16dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageView2">
@@ -64,11 +63,10 @@
     <ImageView
         android:id="@+id/imageView2"
         android:layout_width="125dp"
-        android:layout_height="114dp"
+        android:layout_height="65dp"
         android:layout_marginTop="36dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-         />
+        app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
